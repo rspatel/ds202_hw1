@@ -15,5 +15,3 @@ Source website : [NBA Player Shot Maps](http://nbasavant.com/apps/compare.php)
 ```{r}
 version
 ```
-
-
