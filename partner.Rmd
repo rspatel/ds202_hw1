@@ -1,0 +1,23 @@
+---
+title: "Partner"
+author: "Brian Bates"
+date: "1/24/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Partner info
+Name: Brian Bates
+Username: bkbates
+
+## Owner's Recent Commit
+Yes, I am able to Knit the owner's hw1.Rmd file.
+
+Commit ID: b8c1a08703530b893a51ebd3df4c5c0500701f4d
+Commit changes:  Cleared empty space
+
+## Tip for making GitHub easier
+Making labels "alts" for buttons to know what the button does before clicking it.  For example, the button to copy the commit ID to the clipboard is not labeled.
